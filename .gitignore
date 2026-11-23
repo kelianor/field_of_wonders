@@ -1,6 +1,7 @@
 .venv
-src/server/config.py
-src/server/__pycache__
+src/config.py
+src/__pycache__
+groups.txt
 data
 .out
 .env

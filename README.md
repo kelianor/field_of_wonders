@@ -1,4 +1,4 @@
-# Murder Trivia
+# Field of wonders
 
 Murder Trivia is a group project made by @kelianor, @Mihuyka and others for the communications techniques college subject. The idea came from a popular Steam game [Trivia Murder Party](https://www.jackboxgames.com/games/trivia-murder-party) created by the [jackbox games](https://www.jackboxgames.com/) studio.
 
@@ -7,7 +7,7 @@ Murder Trivia is a group project made by @kelianor, @Mihuyka and others for the 
 
 Install gRPC and pyTelegramBotAPI python packages:
 ```
-pip install grpcio grpcio-tools pyTelegramBotAPI
+pip install pyTelegramBotAPI
 ```
 Supply your Telegram bot token with the token you have received from [@BotFather](tg://resolve?domain=BotFather) into `src/server/config.py` like showcased bellow:
 ```
